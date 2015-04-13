@@ -1,0 +1,21 @@
+﻿<Actions>
+  <TotalTime>1000</TotalTime>
+  <Action>
+     <Pos>Store7</Pos>
+	 <StartTime>20</StartTime>
+	 <EndTime>40</EndTime>
+	 <Description>测试动作1</Description>
+	 <Object>进程空空</Object>
+	 <ObjectNo>1</ObjectNo>
+	 <ObjSrc>1</ObjSrc>
+  </Action>
+  <Action>
+     <Pos>Store9</Pos>
+	 <StartTime>40</StartTime>
+	 <EndTime>70</EndTime>
+	 <Description>测试动作2</Description>
+	 <Object>进程空空</Object>
+	 <ObjectNo>1</ObjectNo>
+	 <ObjSrc>1</ObjSrc>
+  </Action>
+</Actions>

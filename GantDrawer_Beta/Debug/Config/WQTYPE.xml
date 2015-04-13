@@ -1,0 +1,8 @@
+﻿<!-- WQ类型配置文件 -->
+<WQTypes>
+  <WQType>进程空空</WQType>
+  <WQType>远程空空</WQType>
+  <WQType>小型空面</WQType>
+  <WQType>大型空面</WQType>
+  <WQType>航P</WQType>
+</WQTypes>

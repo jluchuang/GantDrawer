@@ -1,0 +1,34 @@
+﻿Build started 2015/3/10 20:07:06.
+     1>Project "C:\Users\chuang\Desktop\paper\论文资料\需要导出的文件20140709\Operating&Scheduling Projects\GantDrawer_Beta\GantDrawer_Beta\GantDrawer_Beta.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\GantDrawer_Beta.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\chuang\Desktop\paper\论文资料\需要导出的文件20140709\Operating&Scheduling Projects\GantDrawer_Beta\Debug\GantDrawer_Beta.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\GantDrawer_Beta.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\chuang\Desktop\paper\论文资料\需要导出的文件20140709\Operating&Scheduling Projects\GantDrawer_Beta\Debug\GantDrawer_Beta.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\chuang\Desktop\paper\论文资料\需要导出的文件20140709\Operating&Scheduling Projects\GantDrawer_Beta\Debug\GantDrawer_Beta.lib" /MACHINE:X86 Debug\GantDrawer_Beta.res
+         Debug\BasicStore.obj
+         Debug\Device.obj
+         Debug\Elevator.obj
+         Debug\GantDrawer_Beta.obj
+         Debug\GantDrawer_BetaDlg.obj
+         Debug\m_calculateDlg.obj
+         Debug\m_GantDlg.obj
+         Debug\m_PropertyDlg.obj
+         Debug\propertySettings.obj
+         Debug\RandGenerator.obj
+         Debug\SeQuenceSet.obj
+         Debug\stdafx.obj
+         GantDrawer_Beta.vcxproj -> C:\Users\chuang\Desktop\paper\论文资料\需要导出的文件20140709\Operating&Scheduling Projects\GantDrawer_Beta\Debug\GantDrawer_Beta.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\chuang\Desktop\paper\论文资料\需要导出的文件20140709\Operating&Scheduling Projects\GantDrawer_Beta\Debug\GantDrawer_Beta.exe.manifest" /manifest Debug\GantDrawer_Beta.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\GantDrawer_Beta.unsuccessfulbuild".
+         Touching "Debug\GantDrawer_Beta.lastbuildstate".
+     1>Done Building Project "C:\Users\chuang\Desktop\paper\论文资料\需要导出的文件20140709\Operating&Scheduling Projects\GantDrawer_Beta\GantDrawer_Beta\GantDrawer_Beta.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.20
